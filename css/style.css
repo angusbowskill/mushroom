@@ -7,8 +7,13 @@
     background-position: center;
     background-size: cover; 
     position: relative;
-    
+
 }
+
+html, body {
+    margin: 0;
+    padding: 0;
+  }  
 
 .img-container {
     position: absolute;
